@@ -3,3 +3,5 @@ This is my file1 for git course
 Adding content to File1 here
 
 Some random change
+
+Add content via bug-fix branch

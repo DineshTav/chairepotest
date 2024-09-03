@@ -1,1 +1,2 @@
 I'm a fixed file created inside Bug-fix folder
+Some more changes made in bug-fix branch

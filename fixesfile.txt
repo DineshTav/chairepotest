@@ -1,2 +1,4 @@
 This is a fixes file created in 
 bugfix file
+
+Content added via bug - fix branch

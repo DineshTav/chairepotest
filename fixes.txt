@@ -1,0 +1,1 @@
+I'm a fixed file created inside Bug-fix folder

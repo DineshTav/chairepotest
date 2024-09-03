@@ -11,3 +11,5 @@ Add content via bug-fix branch
 Added new message for git diff
 
 Add one more message for git diff
+
+Stash Two

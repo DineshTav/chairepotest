@@ -1,6 +1,4 @@
 This is a fixes file created in 
 bugfix file
 
-Content added in main branch
-
-Some more content added in main branch
+Content added via bug - fix branch

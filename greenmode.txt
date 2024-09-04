@@ -1,1 +1,3 @@
 This is greenmode for understanding rebase
+
+Add a new code for greenmode

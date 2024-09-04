@@ -1,0 +1,1 @@
+This is a pinkmode file for understanding Rebase problem

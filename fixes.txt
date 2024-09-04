@@ -5,3 +5,5 @@ One more bug detected and fixed
 Fourth bug fix
 
 fifth bug fixed
+
+Pink mode bug fixed

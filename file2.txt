@@ -12,3 +12,6 @@ New content for diff check
 
 New mssg added now
 
+2025 footer note added
+
+Code added in bug-fix for Rebase

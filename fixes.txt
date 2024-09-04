@@ -11,3 +11,5 @@ Pink mode bug fixed
 Purple mode bug fixed
 
 Green mode bug fixed
+
+A new fix added for Github
